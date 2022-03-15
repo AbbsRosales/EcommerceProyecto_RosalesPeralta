@@ -18,4 +18,3 @@ Paso 6: Para salir
 CREACIÓN DE COMPONENTE:
 1. Crear una función con letra Mayuscula. 
 2. Exportar la función. 
-3. Se debe devolver 
