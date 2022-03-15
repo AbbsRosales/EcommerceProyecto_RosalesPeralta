@@ -1,4 +1,4 @@
-Creación Proyecto primera vez: 
+CREACIÓN PROYECTO REACT 1RA. VEZ: 
 
 Paso 1: Instalar Node, Entorno que permite ejecutar codigo JS en la maquina.
 Paso 2: Instalar y configurar webpack y babel
