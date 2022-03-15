@@ -3,7 +3,6 @@ Creación Proyecto primera vez:
 Paso 1: Instalar Node, Entorno que permite ejecutar codigo JS en la maquina.
 Paso 2: Instalar y configurar webpack y babel
 Paso 3: Crear el proyecto
-    -npm install -g create-react-app && creacte-react-app <nombre_proyecto>
     -npx create-react-app <nombre_proyecto>
 //Esto se hace solo una vez. 
 
