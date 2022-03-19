@@ -1,10 +1,17 @@
 import './App.css';
 import Header from './components/Header';
+import ItemListContainer from './components/ItemListContainer';
 
-function App() {
+const App = () => {
+
+  const saludos = [{id:1, saludo:"Buenos días"},{id:2, saludo:"Buenas tardes"},{id:3, saludos:"Buenas noches"}];
+
   return (
-    
-    <Header/>
+    <>
+      <Header/>
+      <ItemListContainer greeting={"Bienvenido a tú tienda online."}/>
+
+    </>
   );
 }
 
