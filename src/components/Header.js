@@ -11,10 +11,10 @@ const Header = () => {
             </div>        
             <nav>
                 <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Galery</a></li>
-                    <li><a href="#">Shop</a></li>
+                    <li><a href="#">Óleos</a></li>
+                    <li><a href="#">Acrilicos</a></li>
+                    <li><a href="#">Acuarelas</a></li>
+                    <li><a href="#">Pinceles y Bastidores</a></li>
                     <CartWidget/>
                 </ul>
             </nav>

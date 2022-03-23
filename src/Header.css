@@ -40,11 +40,12 @@ nav ul li a {
     color: white;
     font-weight: bold;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 15px;
     padding: 15px;
 }
 
 nav ul li a:hover{
-  background-color: #d823c0;
+  background-color: #d87423;
+  color: rgb(0, 0, 0);
   border-radius: 10px;
 }
