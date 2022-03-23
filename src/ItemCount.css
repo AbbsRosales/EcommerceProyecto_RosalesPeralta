@@ -1,0 +1,18 @@
+.card-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    background-color: rgba(199, 179, 174, 0.582);
+    border-radius: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 15px;
+}
+
+.imagenStock{
+    border-radius: 10px;
+    width: 150px;
+    height: 160px;
+}
